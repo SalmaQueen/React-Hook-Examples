@@ -1,0 +1,43 @@
+/* am gonna use material ui for the styling */
+/* .badge{
+    width:
+} */
+.badge{
+    width:20px;
+    height:20px;
+    background-color: red;
+    color: white; 
+    position: relative;
+    content: "";
+    text-align: center;
+    border-radius: 50%;
+    left:1.3rem;
+
+}
+svg{
+    width:2.7rem;
+    height:2.7rem;
+    margin-top:-1rem;
+}
+/* .badge::before{
+    position: absolute;
+    content: "";
+    width:50px;
+
+    height:50px;
+    background-color: red;
+    color: white; 
+    border-radius: 50%;
+
+} */
+/* .badge::after{
+    position: absolute;
+    left:2rem;
+    content: "";
+    width:50px;
+    height:50px;
+    background-color: red;
+    color: white; 
+    border-radius: 50%;
+
+} */
